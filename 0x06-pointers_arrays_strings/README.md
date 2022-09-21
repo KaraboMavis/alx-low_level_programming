@@ -1,0 +1,1 @@
+Strrings and pointers more
